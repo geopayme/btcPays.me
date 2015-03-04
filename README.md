@@ -7,6 +7,11 @@ Just set up an account on btcPOS with your bitcoin wallet address and your busin
 
 (advertise your BTC acceptance and bring new customers in!)
 
+<div align="center">
+        <img width="45%" src="screen-shots/btc-accepted.png" alt="About screen" title="Login screen"</img>
+</div>
+
+
 This is an effort of Geopay.me marketplace merchant tools.
 
 <div align="center">
