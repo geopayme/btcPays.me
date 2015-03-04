@@ -8,7 +8,7 @@ Just set up an account on btcPOS with your bitcoin wallet address and your busin
 (advertise your BTC acceptance and bring new customers in!)
 
 <div align="center">
-        <img width="45%" src="screen-shots/btc-accepted.png" alt="btc Accepted" title="btc Accepted"</img>
+        <img width="45%" src="screen-shots/bitcoin-accepted.png" alt="btc Accepted" title="btc Accepted"</img>
 </div>
 
 
