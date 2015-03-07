@@ -3,7 +3,7 @@
 <b>What is the btcPOS?:</b>
 
 <div align="center">
-        <img width="45%" src="screen-shots/btcimages/btcpaysme.png" alt="btc Accepted" title="btc Accepted"</img>
+        <img width="45%" src="https://github.com/geopayme/btcPays.me/blob/master/screen-shots/btcimages/btcpayme.png" alt="btc Accepted" title="btc Accepted"</img>
 </div>
 
 It's the ideal web based point-of-sale (POS) solution for restaurants, bars, cafés, and all retail merchants accepting Bitcoin. btcPOS can easily give merchants the ability to accept bitcoin payments in store fronts.
