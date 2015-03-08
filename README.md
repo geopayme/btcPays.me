@@ -1,6 +1,6 @@
 # btcPays.me
 
-<b>What is the btcPOS?:</b>
+<center><b><h2>What is the btcPOS?:</h2></b></center>
 
 <div align="center">
         <img width="45%" src="https://github.com/geopayme/btcPays.me/blob/master/screen-shots/btcimages/btcpayme.png" alt="btc Accepted" title="btc Accepted"</img>
